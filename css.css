@@ -129,6 +129,7 @@
 	nav.show-box-shadow {
 	box-shadow: 0 0.6rem 1rem hsl(14, 89%, 53%, 12%);
 	border: none;
+	transition: all .3s ease;
 	}
 	
 	nav .container {
